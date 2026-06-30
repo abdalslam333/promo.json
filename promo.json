@@ -1,6 +1,8 @@
 {
   "promo_is_active": true,
-  "promo_title": "Bingeza  -تصفح وشاهد الافلام والانمي مجانا ",
+   "promo_title_ar": "Bingeza  -تصفح وشاهد الافلام والانمي مجانا",
+"promo_title_en": "Bingeza - Watch movies and anime for free",
+  "promo_title": "Bingeza  ",
   "promo_icon_url": "https://bingezaweb2.pages.dev/assets/player-app-icon.png",
   "promo_link": "https://bingeza.online/"
 }
